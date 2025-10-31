@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Completo com Next.js
 
 E-commerce moderno construído com Next.js, Express, Prisma e SQLite.
@@ -64,3 +65,6 @@ npm run dev
 - `npm run build` - Build de produção
 - `npm run start` - Inicia servidor de produção
 
+=======
+# mnre-commerce
+>>>>>>> 83f6faf790f5fdfe03ef6cf302aafe833038d8ee
